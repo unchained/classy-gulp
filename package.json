@@ -1,0 +1,27 @@
+{
+  "name": "classy-gulp",
+  "version": "1.0.0",
+  "description": "Write nice gulpfiles in ES6 classes",
+  "main": "src/classy-gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unchained/classy-gulp.git"
+  },
+  "keywords": [
+    "gulp",
+    "class"
+  ],
+  "author": "UNCHAINED.studio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unchained/classy-gulp/issues"
+  },
+  "homepage": "https://github.com/unchained/classy-gulp#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "undertaker-forward-reference": "^1.0.2"
+  }
+}
