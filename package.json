@@ -1,6 +1,6 @@
 {
   "name": "classy-gulp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Write nice gulpfiles in ES6 classes",
   "main": "src/classy-gulp.js",
   "scripts": {
@@ -12,7 +12,14 @@
   },
   "keywords": [
     "gulp",
-    "class"
+    "class",
+    "ES6",
+    "gulpfile",
+    "organized",
+    "namespace",
+    "task",
+    "registry",
+    "tidy"
   ],
   "author": "UNCHAINED.studio",
   "license": "MIT",
